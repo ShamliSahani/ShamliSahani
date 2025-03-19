@@ -30,33 +30,45 @@
 
 ---
 
-### 🌐 Projects I’m Proud Of  
-- 🧠 **AI Girlfriend Simulation** - Real-time conversational AI with 3D character interactions  
-- 🏃‍♀️ **Cave Escape Horror Game** - Puzzle-platformer with light mechanics and ghost chases (Unity & Unreal versions!)  
-- ✨ **PickyPop** - Hyper-casual game with smooth UX and dynamic leaderboard  
-- 🛡️ **Riko** - Top-down adventure game with unique combat mechanics  
-- 🛰️ **Anant Space Runner** - Endless runner set in deep space!
+### 🌐 Projects I'm Proud Of  
+
+- 🕹️ **Multiplayer Lobby System (Unity + Socket.io + Node.js)**  
+  Designed and developed a real-time multiplayer lobby system with matchmaking, player status updates, and synchronization across clients. Integrated seamless communication between Unity frontend and Node.js backend using WebSockets.
+
+- 👻 **Cave Escape Horror Game (Unreal Engine + C++)**  
+  It is a third-person survival horror game where players escape a haunted cave while avoiding an AI-driven ghost enemy. Implemented light mechanics, battery management, and puzzle-based progression.
+
+- 🤖 **AI-Driven NPC Interaction System (Unity + ML)**  
+  Built an intelligent NPC interaction system that responds to player choices and adapts its behaviour dynamically. Focused on dialogue trees, state machines, and mood-based responses.
+
+- 🚀 **Endless Runner with Procedural Generation (Unity)**  
+  Developed an endless runner game with procedurally generated environments and obstacles. Focused on optimization for mobile devices and smooth performance.
+
+- 🎨 **Interactive Web Game with Real-time Backend (HTML5 + Node.js)**  
+  Created a lightweight web game where users can customize abilities and characters through a connected dashboard. Implemented real-time data sync between the game and the backend server.
+
+
 
 ---
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShamliSanjuSahani&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShamliSanjuSahani&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ShamliSahani&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShamliSahani&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
 
 ### ⚡ GitHub Activity Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ShamliSanjuSahani&theme=dracula" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ShamliSahani&theme=dracula" alt="Activity Graph" />
 </p>
 
 ---
 
 ### 📫 Connect With Me  
 <p align="center">
-  <a href="https://www.linkedin.com/in/shamli-sanju-sahani/">
+  <a href="https://www.linkedin.com/in/shamli-sahani-8428141b4/">
     <img src="https://img.shields.io/badge/-Shamli%20Sanju%20Sahani-blue?style=for-the-badge&logo=Linkedin&logoColor=white" />
   </a>
   <a href="mailto:sahanishamli@gmail.com">
@@ -69,4 +81,5 @@
 ### 📝 Fun Facts  
 - 🎮 I build **AI-driven NPCs** to make players say "Whoa!"  
 - ✨ Believe that **every game has a soul**—my job is to bring it to life!  
-- 🌍 Love learning new things, currently g
+- 🌍 Love learning new things, currently geeking out over **procedural world generation**  
+- 🏆 “Game dev isn’t just what I do—it’s how I unwind, recharge, and have fun.”
