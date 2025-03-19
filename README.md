@@ -42,10 +42,6 @@
 - 🚀 **Endless Runner with Procedural Generation (Unity)**  
   Developed an endless runner game with procedurally generated environments and obstacles. Focused on optimization for mobile devices and smooth performance.
 
-- 🎨 **Interactive Web Game with Real-time Backend (HTML5 + Node.js)**  
-  Created a lightweight web game where users can customize abilities and characters through a connected dashboard. Implemented real-time data sync between the game and the backend server.
-
-
 
 ---
 
