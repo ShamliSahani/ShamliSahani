@@ -66,10 +66,7 @@
 ### 📫 Connect With Me  
 <p align="center">
   <a href="https://www.linkedin.com/in/shamli-sahani-8428141b4/">
-    <img src="https://img.shields.io/badge/-Shamli%20Sanju%20Sahani-blue?style=for-the-badge&logo=Linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:sahanishamli@gmail.com">
-    <img src="https://img.shields.io/badge/-sahanishamli@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Shamli%20Sahani-blue?style=for-the-badge&logo=Linkedin&logoColor=white" />
   </a>
 </p>
 
