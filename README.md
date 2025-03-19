@@ -58,7 +58,7 @@
 
 ### ⚡ GitHub Activity Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ShamliSahani&theme=dracula" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShamliSahani&theme=dracula" alt="Activity Graph" />
 </p>
 
 ---
