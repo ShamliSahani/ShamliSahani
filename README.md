@@ -42,14 +42,6 @@
 - 🚀 **Endless Runner with Procedural Generation (Unity)**  
   Developed an endless runner game with procedurally generated environments and obstacles. Focused on optimization for mobile devices and smooth performance.
 
-
----
-
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShamliSahani&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
 ---
 
 ### ⚡ GitHub Activity Graph
