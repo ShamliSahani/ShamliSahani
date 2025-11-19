@@ -2,7 +2,7 @@
 <h3 align="center">🎮 Gameplay Programmer | 🖥️ Unity & Unreal | 🧠 AI & Game Feel Enthusiast</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="Coding GIF">
+  <img src="https://i.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="350" alt="Coding GIF">
 </p>
 
 ---
@@ -119,6 +119,6 @@ Puzzle game blending:
 
 ## 📝 Fun Facts  
 - 👾 I love making **AI that scares players in the best way**  
-- ⚡ Gameplay feel is my top priority — *controls must feel right*  
+- ⚡ Gameplay feel is my top priority, *controls must feel right*  
 - 🎮 I treat prototyping as a creative playground  
 - 🌱 Constantly learning & improving  
