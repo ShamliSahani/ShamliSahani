@@ -1,5 +1,5 @@
 <h1 align="center">Hey there! 👋 I'm Shamli Sanju Sahani</h1>
-<h3 align="center">🎮 Game Developer | 🕹️ AI Enthusiast | 🌍 Explorer of Virtual Worlds</h3>
+<h3 align="center">🎮 Gameplay Programmer | 🖥️ Unity & Unreal | 🧠 AI & Game Feel Enthusiast</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="Coding GIF">
@@ -7,61 +7,118 @@
 
 ---
 
-### 👩‍💻 About Me  
-- 🚀 **Passionate Game Developer** with experience in building engaging 2D/3D games  
-- 🔥 Love blending **AI** with gameplay for smarter and more interactive worlds  
-- 🌱 Currently leveling up my **Unreal Engine (C++)** and **advanced AI NPC** skills  
-- 🎨 Obsessed with crafting immersive experiences and seamless mechanics  
-- 🗂️ Game engines I wield: **Unity | Unreal Engine | Godot**  
-- ✨ Believer in "Games that tell stories players *feel*"  
-- 📍 Based in **Manchester, UK 🇬🇧**
+## 👩‍💻 About Me  
+- 🎮 **Gameplay Programmer** with 3+ years of industry experience  
+- 🛠️ Specialize in **controls, cameras, AI behaviours, interaction systems, and polished gameplay**  
+- 🔥 Love building prototypes that feel *smooth, responsive, and fun*  
+- 🌱 Currently improving **Unreal Engine (C++) AI & gameplay systems**  
+- 🧩 Engines I use: **Unity | Unreal Engine | Godot**  
+- 🎓 Pursuing **MSc Computer Games Development**  
+- 📍 Based in **Pune, India**
 
 ---
 
-### 🔧 Tech Stack
-<p>
-  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
-  <img src="https://img.shields.io/badge/Unreal-Engine-000000?style=for-the-badge&logo=unrealengine&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-</p>
+## 🔧 Tech Stack & Tools
 
----
-
-### 🌐 Projects I'm Proud Of  
-
-- 🕹️ **Multiplayer Lobby System (Unity + Socket.io + Node.js)**  
-  Designed and developed a real-time multiplayer lobby system with matchmaking, player status updates, and synchronization across clients. Integrated seamless communication between Unity frontend and Node.js backend using WebSockets.
-
-- 👻 **Cave Escape Horror Game (Unreal Engine + C++)**  
-  It is a third-person survival horror game where players escape a haunted cave while avoiding an AI-driven ghost enemy. Implemented light mechanics, battery management, and puzzle-based progression.
-
-- 🤖 **AI-Driven NPC Interaction System (Unity + ML)**  
-  Built an intelligent NPC interaction system that responds to player choices and adapts its behaviour dynamically. Focused on dialogue trees, state machines, and mood-based responses.
-
-- 🚀 **Endless Runner with Procedural Generation (Unity)**  
-  Developed an endless runner game with procedurally generated environments and obstacles. Focused on optimization for mobile devices and smooth performance.
-
----
-
-### ⚡ GitHub Activity Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShamliSahani&theme=dracula" alt="Activity Graph" />
+  <img src="https://img.shields.io/badge/Unity-black?style=for-the-badge&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Unreal_Engine-000000?style=for-the-badge&logo=unrealengine&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-purple?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=black" />
+  <img src="https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/NavMesh-0A66C2?style=for-the-badge&logo=unrealengine&logoColor=white" />
+  <img src="https://img.shields.io/badge/Animation%20State%20Machines-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Blueprints-1f75fe?style=for-the-badge&logo=unrealengine&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 ---
 
-### 📫 Connect With Me  
+# 🌐 Featured Projects  
+
+Below are my favourite projects.  
+🎥 **Click the titles to view gameplay videos and full breakdowns.**
+
+---
+
+### 👻 **[Behind You (Unreal Engine • C++)](https://shamlisahani.me/project.html?id=behindyou)**
+A first-person horror escape prototype with:
+- Ghost chase AI  
+- Animation Blueprint loop system  
+- Atmospheric lighting  
+- Fog, exposure & colour grading  
+- Ambient horror audio  
+
+<p align="center">
+  <img src="https://shamlisahani.me/assets/behindyou/img1.png" width="400">
+</p>
+
+---
+
+### 🧀 **[Chessy Escape (Unity • C#)](https://shamlisahani.me/project.html?id=chessy-escape)**
+Endless runner × stealth hybrid featuring:
+- Hiding mechanic  
+- Cat behaviour system  
+- Obstacle spawners  
+- 2D lighting  
+
+<p align="center">
+  <img src="https://shamlisahani.me/assets/chessyescape/img1.png" width="400">
+</p>
+
+---
+
+### ⚔️ **[Riko: The Spirit Guide (Unity • C#)](https://shamlisahani.me/project.html?id=riko-spirit-guide)**
+Action RPG prototype including:
+- Combo attacks  
+- Magic abilities  
+- AI state machine  
+- Third-person controller  
+
+<p align="center">
+  <img src="https://shamlisahani.me/assets/RTSG/img1.jpg" width="400">
+</p>
+
+---
+
+### ♜ **[CubeMate (Unity • C#)](https://shamlisahani.me/project.html?id=CubeMate)**
+Puzzle game blending:
+- Chess rules  
+- Rubik’s Cube rotation mechanics  
+- Mission-based progression  
+- Heuristic AI opponent  
+
+<p align="center">
+  <img src="https://shamlisahani.me/assets/Cubic/img1.png" width="400">
+</p>
+
+---
+
+## ⚡ GitHub Activity  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShamliSahani&theme=react-dark" alt="Activity Graph" />
+</p>
+
+---
+
+## 📫 Connect With Me  
 <p align="center">
   <a href="https://www.linkedin.com/in/shamli-sahani-8428141b4/">
     <img src="https://img.shields.io/badge/-Shamli%20Sahani-blue?style=for-the-badge&logo=Linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:sahanishamli@gmail.com">
+    <img src="https://img.shields.io/b/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
-### 📝 Fun Facts  
-- 🎮 I build **AI-driven NPCs** to make players say "Whoa!"  
-- ✨ Believe that **every game has a soul**—my job is to bring it to life!  
-- 🌍 Love learning new things, currently geeking out over **procedural world generation**  
-- 🏆 “Game dev isn’t just what I do—it’s how I unwind, recharge, and have fun.”
+## 📝 Fun Facts  
+- 👾 I love making **AI that scares players in the best way**  
+- ⚡ Gameplay feel is my top priority — *controls must feel right*  
+- 🎮 I treat prototyping as a creative playground  
+- 🌱 Constantly learning & improving  
