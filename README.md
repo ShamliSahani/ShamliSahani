@@ -106,14 +106,27 @@ Puzzle game blending:
 ---
 
 ## 📫 Connect With Me  
+## 📫 Connect With Me  
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/shamli-sahani-8428141b4/">
-    <img src="https://img.shields.io/badge/-Shamli%20Sahani-blue?style=for-the-badge&logo=Linkedin&logoColor=white" />
+
+  <!-- Portfolio -->
+  <a href="https://shamlisahani.me" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/shamli-sahani-8428141b4/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Shamli%20Sahani-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <!-- Email -->
   <a href="mailto:sahanishamli@gmail.com">
-    <img src="https://img.shields.io/b/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-sahanishamli%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+
 </p>
+
 
 ---
 
