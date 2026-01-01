@@ -1,136 +1,48 @@
-<h1 align="center">Hey there! 👋 I'm Shamli Sanju Sahani</h1>
-<h3 align="center">🎮 Gameplay Programmer | 🖥️ Unity & Unreal | 🧠 AI & Game Feel Enthusiast</h3>
+### Hi there, I'm Shamli 👋
 
-<p align="center">
-  <img src="https://i.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="350" alt="Coding GIF">
+I am a **Gameplay Programmer** with **3+ years of commercial experience** shipping titles in Unity and Unreal Engine. I recently completed my **MSc in Computer Games Development (Merit)**, specializing in C++ engine architecture and physics-based systems.
+
+I bridge the gap between high-level design mechanics and low-level engine optimization.
+
+---
+
+### 🛠️ Tech Stack & Skills
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Unreal%20Engine-5-black?style=for-the-badge&logo=unrealengine" alt="Unreal Engine" />
+  <img src="https://img.shields.io/badge/Unity-2022-black?style=for-the-badge&logo=unity" alt="Unity" />
+  <img src="https://img.shields.io/badge/C++-17-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/C%23-10.0-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
 </p>
 
----
-
-## 👩‍💻 About Me  
-- 🎮 **Gameplay Programmer** with 3+ years of industry experience  
-- 🛠️ Specialize in **controls, cameras, AI behaviours, interaction systems, and polished gameplay**  
-- 🔥 Love building prototypes that feel *smooth, responsive, and fun*  
-- 🌱 Currently improving **Unreal Engine (C++) AI & gameplay systems**  
-- 🧩 Engines I use: **Unity | Unreal Engine | Godot**  
-- 🎓 Pursuing **MSc Computer Games Development**  
-- 📍 Based in **Pune, India**
+* **Gameplay Engineering:** 3D Vector Math, Physics-based Character Controllers, Animation State Machines.
+* **AI Systems:** Behavior Trees, Environment Query System (EQS), Sensory Perception.
+* **Architecture:** REST API Integration, LiveOps Pipelines, Mobile Optimization & Profiling.
 
 ---
 
-## 🔧 Tech Stack & Tools
+### 🚀 Featured Engineering Showcase
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Unity-black?style=for-the-badge&logo=unity&logoColor=white" />
-  <img src="https://img.shields.io/badge/Unreal_Engine-000000?style=for-the-badge&logo=unrealengine&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-purple?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=black" />
-  <img src="https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" />
+**1. C++ Wall-Run System (Unreal Engine 5)**
+* Engineered a custom movement mode extending `UCharacterMovementComponent`.
+* Used physics-based raycasting and vector cross-products for real-time surface detection.
+* [**View**](https://shamlisahani.me/project_wallrun.html))
+
+**2. "Behind You" Stalking AI (Unreal Engine 5)**
+* Architected AI using Behavior Trees and Blackboard logic.
+* Integrated EQS for dynamic environment analysis and custom C++ sensory modules.
+* [**View**](https://shamlisahani.me/project_ai.html)
+
+**3. Action RPG Combat System (Unity C#)**
+* Built an event-driven combat system using Animation Events for frame-precise hitboxes.
+* Implemented Finite State Machines (FSM) for input buffering and combos.
+* [**View**](https://shamlisahani.me/project_riko.html))
+
+---
+
+### 📫 Connect
+
+<p align="left">
+<a href="https://www.linkedin.com/in/shamli-sahani-8428141b4/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Shamli Sahani LinkedIn" height="30" /></a>
+<a href="https://shamlisahani.me" target="blank"><img align="center" src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=html5&logoColor=white" alt="Portfolio" height="30" /></a>
 </p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/NavMesh-0A66C2?style=for-the-badge&logo=unrealengine&logoColor=white" />
-  <img src="https://img.shields.io/badge/Animation%20State%20Machines-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Blueprints-1f75fe?style=for-the-badge&logo=unrealengine&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=white" />
-</p>
-
----
-
-# 🌐 Featured Projects  
-
-Below are my favourite projects.  
-🎥 **Click the titles to view gameplay videos and full breakdowns.**
-
----
-
-### 👻 **[Behind You (Unreal Engine • C++)](https://shamlisahani.me/project.html?id=behindyou)**
-A first-person horror escape prototype with:
-- Ghost chase AI  
-- Animation Blueprint loop system  
-- Atmospheric lighting  
-- Fog, exposure & colour grading  
-- Ambient horror audio  
-
-<p align="center">
-  <img src="https://shamlisahani.me/assets/behindyou/img1.png" width="400">
-</p>
-
----
-
-### 🧀 **[Chessy Escape (Unity • C#)](https://shamlisahani.me/project.html?id=chessy-escape)**
-Endless runner × stealth hybrid featuring:
-- Hiding mechanic  
-- Cat behaviour system  
-- Obstacle spawners  
-- 2D lighting  
-
-<p align="center">
-  <img src="https://shamlisahani.me/assets/chessyescape/img1.png" width="400">
-</p>
-
----
-
-### ⚔️ **[Riko: The Spirit Guide (Unity • C#)](https://shamlisahani.me/project.html?id=riko-spirit-guide)**
-Action RPG prototype including:
-- Combo attacks  
-- Magic abilities  
-- AI state machine  
-- Third-person controller  
-
-<p align="center">
-  <img src="https://shamlisahani.me/assets/RTSG/img1.jpg" width="400">
-</p>
-
----
-
-### ♜ **[CubeMate (Unity • C#)](https://shamlisahani.me/project.html?id=CubeMate)**
-Puzzle game blending:
-- Chess rules  
-- Rubik’s Cube rotation mechanics  
-- Mission-based progression  
-- Heuristic AI opponent  
-
-<p align="center">
-  <img src="https://shamlisahani.me/assets/Cubic/img1.png" width="400">
-</p>
-
----
-
-## ⚡ GitHub Activity  
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShamliSahani&theme=react-dark" alt="Activity Graph" />
-</p>
-
----
-
-## 📫 Connect With Me  
-
-<p align="center">
-
-  <!-- Portfolio -->
-  <a href="https://shamlisahani.me" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/shamli-sahani-8428141b4/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Shamli%20Sahani-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-
-  <!-- Email -->
-  <a href="mailto:sahanishamli@gmail.com">
-    <img src="https://img.shields.io/badge/Email-sahanishamli%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-
-</p>
-
-
----
-
-## 📝 Fun Facts  
-- 👾 I love making **AI that scares players in the best way**  
-- ⚡ Gameplay feel is my top priority, *controls must feel right*  
-- 🎮 I treat prototyping as a creative playground  
-- 🌱 Constantly learning & improving  
