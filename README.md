@@ -1,12 +1,14 @@
-### Hi there, I'm Shamli 👋
+# Hi there, I'm Shamli 👋
 
-I am a **Gameplay Programmer** with **3+ years of commercial experience** shipping titles in Unity and Unreal Engine. I recently completed my **MSc in Computer Games Development (Merit)**, specializing in C++ engine architecture and physics-based systems.
+Game Developer focused on Gameplay Systems, AI, and Optimization using Unity (C#) and Unreal Engine 5 (C++).
 
-I bridge the gap between high-level design mechanics and low-level engine optimization.
+I have 4+ years of experience working across commercial studios, freelance projects, and rapid game prototyping environments, building gameplay systems for mobile, web, and PC games.
+
+Recently completed my MSc in Computer Games Development from Manchester Metropolitan University, where I focused on gameplay programming, C++ systems, and game architecture.
 
 ---
 
-### 🛠️ Tech Stack & Skills
+## 🛠️ Tech Stack & Skills
 
 <p align="left">
   <img src="https://img.shields.io/badge/Unreal%20Engine-5-black?style=for-the-badge&logo=unrealengine" alt="Unreal Engine" />
@@ -15,34 +17,74 @@ I bridge the gap between high-level design mechanics and low-level engine optimi
   <img src="https://img.shields.io/badge/C%23-10.0-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
 </p>
 
-* **Gameplay Engineering:** 3D Vector Math, Physics-based Character Controllers, Animation State Machines.
-* **AI Systems:** Behavior Trees, Environment Query System (EQS), Sensory Perception.
-* **Architecture:** REST API Integration, LiveOps Pipelines, Mobile Optimization & Profiling.
+### Gameplay Programming
+
+* Combat Systems
+* Player Movement Systems
+* Gameplay AI
+* Enemy Behaviors
+* Multiplayer Gameplay
+* UI Integration
+* Physics-based Mechanics
+
+### Technical Skills
+
+* Unreal Engine 5
+* Unity
+* C++ / C#
+* OOP & Design Patterns
+* Optimization & Profiling
+* REST API Integration
+* Git & GitHub
 
 ---
 
-### 🚀 Featured Engineering Showcase
+## 🚀 Featured Projects
 
-**1. C++ Wall-Run System (Unreal Engine 5)**
-* Engineered a custom movement mode extending `UCharacterMovementComponent`.
-* Used physics-based raycasting and vector cross-products for real-time surface detection.
-* [**View**](https://shamlisahani.me/project_wallrun.html))
+### Advanced Wall-Run & Slide System (Unreal Engine 5, C++)
 
-**2. "Behind You" Stalking AI (Unreal Engine 5)**
-* Architected AI using Behavior Trees and Blackboard logic.
-* Integrated EQS for dynamic environment analysis and custom C++ sensory modules.
-* [**View**](https://shamlisahani.me/project_ai.html)
+* Built a custom traversal system with wall-running and sliding mechanics.
+* Extended Unreal’s movement component with custom movement states and physics handling.
+* Focused on responsive movement and gameplay feel.
 
-**3. Action RPG Combat System (Unity C#)**
-* Built an event-driven combat system using Animation Events for frame-precise hitboxes.
-* Implemented Finite State Machines (FSM) for input buffering and combos.
-* [**View**](https://shamlisahani.me/project_riko.html))
+🔗 https://shamlisahani.me/project.html?id=wallrun
 
 ---
 
-### 📫 Connect
+### Ascension – 5v5 Multiplayer Game (Unreal Engine 5)
+
+* Designed and implemented modular player ability systems.
+* Worked on scalable gameplay architecture for multiplayer interactions.
+* Focused on gameplay responsiveness and combat flow.
+
+---
+
+### WordQuake – Multiplayer Word Game (Unity + NodeJS)
+
+* Developed real-time multiplayer gameplay with lobby systems and live score tracking.
+* Integrated Unity frontend with multiplayer backend systems.
+
+🔗 https://shamlisahani.me/project.html?id=wordquake
+
+---
+
+### Riko: The Spirit Guide (Unity, C#)
+
+* Built combat systems, enemy AI, and gameplay progression systems.
+* Implemented responsive combat interactions and event-driven hit detection.
+
+🔗 https://shamlisahani.me/project.html?id=rikothespiritguide
+
+---
+
+## 📫 Connect
 
 <p align="left">
-<a href="https://www.linkedin.com/in/shamli-sahani-8428141b4/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Shamli Sahani LinkedIn" height="30" /></a>
-<a href="https://shamlisahani.me" target="blank"><img align="center" src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=html5&logoColor=white" alt="Portfolio" height="30" /></a>
+<a href="https://www.linkedin.com/in/shamli-sahani-8428141b4/" target="blank">
+<img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="30" />
+</a>
+
+<a href="https://shamlisahani.me" target="blank">
+<img align="center" src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=html5&logoColor=white" alt="Portfolio" height="30" />
+</a>
 </p>
