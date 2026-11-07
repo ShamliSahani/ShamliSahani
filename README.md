@@ -1,90 +1,49 @@
 # Hi there, I'm Shamli 👋
 
-Game Developer focused on Gameplay Systems, AI, and Optimization using Unity (C#) and Unreal Engine 5 (C++).
+**Game Developer | Gameplay Programmer** based in Pune, India (open to remote work and relocation).
 
-I have 4+ years of experience working across commercial studios, freelance projects, and rapid game prototyping environments, building gameplay systems for mobile, web, and PC games.
+I build gameplay systems, enemy AI, combat, locomotion and performance-optimised features in **Unreal Engine 5 (C++)** and **Unity (C#)**. I have 5+ years of experience across commercial studios, freelance projects and rapid prototyping, with 10+ games and client builds delivered on WebGL, Android, iOS and PC.
 
-Recently completed my MSc in Computer Games Development from Manchester Metropolitan University, where I focused on gameplay programming, C++ systems, and game architecture.
+🎓 MSc Computer Games Development (Merit), Manchester Metropolitan University
+💼 Currently building modular enemy, locomotion and combat systems for a 3D survival game in Unreal Engine 5.5
 
----
+## 🛠️ Tech Stack
 
-## 🛠️ Tech Stack & Skills
+**Engines & Languages:** Unreal Engine 5 · C++ · Unity · C# · Godot · Cocos2d · PixiJS
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Unreal%20Engine-5-black?style=for-the-badge&logo=unrealengine" alt="Unreal Engine" />
-  <img src="https://img.shields.io/badge/Unity-2022-black?style=for-the-badge&logo=unity" alt="Unity" />
-  <img src="https://img.shields.io/badge/C++-17-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/C%23-10.0-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
-</p>
+**Gameplay:** Enemy AI (Behaviour Trees, Blackboards, AI Perception) · Combat · Character Locomotion · Multiplayer Gameplay · UI Integration · Animation Integration
 
-### Gameplay Programming
+**Architecture & Performance:** OOP · Component-based and Data-driven Design · Object Pooling · Profiling · Memory Optimisation
 
-* Combat Systems
-* Player Movement Systems
-* Gameplay AI
-* Enemy Behaviors
-* Multiplayer Gameplay
-* UI Integration
-* Physics-based Mechanics
-
-### Technical Skills
-
-* Unreal Engine 5
-* Unity
-* C++ / C#
-* OOP & Design Patterns
-* Optimization & Profiling
-* REST API Integration
-* Git & GitHub
-
----
+**Backend & Tools:** Node.js · REST APIs · WebSockets · Redis · Firebase Analytics · Docker · Git
 
 ## 🚀 Featured Projects
 
 ### Advanced Wall-Run & Slide System (Unreal Engine 5, C++)
+- Built a custom traversal system with wall-running and sliding mechanics.
+- Extended Unreal's movement component with custom movement states and physics handling.
+- Focused on responsive movement and gameplay feel.
 
-* Built a custom traversal system with wall-running and sliding mechanics.
-* Extended Unreal’s movement component with custom movement states and physics handling.
-* Focused on responsive movement and gameplay feel.
+🔗 [Project page](https://shamlisahani.github.io/PortFolio/project.html?id=gameplaymovement)
 
-🔗 https://shamlisahani.me/project.html?id=wallrun
-
----
+### Gameplay Movement Prototype (Unreal Engine 5, C++) — in progress
+- State-driven Walk, Jog and Sprint locomotion with eight-directional input and animation blending.
+- Data-driven movement tuning with reusable locomotion and traversal components; ledge detection implemented, ledge grab and mantle in progress.
 
 ### Ascension – 5v5 Multiplayer Game (Unreal Engine 5)
+- Implemented multiplayer abilities: rapid-fire projectiles, a defensive shield and teleportation.
+- Built camera and video-quality settings UI and fixed gameplay bugs.
 
-* Designed and implemented modular player ability systems.
-* Worked on scalable gameplay architecture for multiplayer interactions.
-* Focused on gameplay responsiveness and combat flow.
+### WordQuake – Multiplayer Word Game (Unity + Node.js)
+- Real-time multiplayer gameplay with lobby systems and live score tracking.
+- Socket-based communication and a Node.js + Redis backend connected to the Unity client.
 
----
-
-### WordQuake – Multiplayer Word Game (Unity + NodeJS)
-
-* Developed real-time multiplayer gameplay with lobby systems and live score tracking.
-* Integrated Unity frontend with multiplayer backend systems.
-
-🔗 https://shamlisahani.me/project.html?id=wordquake
-
----
+🔗 [Project page](https://shamlisahani.github.io/PortFolio/project.html?id=wordquake)
 
 ### Riko: The Spirit Guide (Unity, C#)
+- Story-driven game of roughly 45–60 minutes with combat, enemy AI, dialogue and gameplay progression.
 
-* Built combat systems, enemy AI, and gameplay progression systems.
-* Implemented responsive combat interactions and event-driven hit detection.
-
-🔗 https://shamlisahani.me/project.html?id=rikothespiritguide
-
----
+🔗 [Project page](https://shamlisahani.github.io/PortFolio/project.html?id=rikothespiritguide)
 
 ## 📫 Connect
-
-<p align="left">
-<a href="https://www.linkedin.com/in/shamli-sahani-8428141b4/" target="blank">
-<img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="30" />
-</a>
-
-<a href="https://shamlisahani.me" target="blank">
-<img align="center" src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=html5&logoColor=white" alt="Portfolio" height="30" />
-</a>
-</p>
+[Portfolio](https://shamlisahani.github.io/PortFolio/) · [LinkedIn](https://www.linkedin.com/in/shamli-sahani-8428141b4/) · shamlisahani27@gmail.com
